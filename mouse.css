@@ -1,0 +1,23 @@
+body{
+    background: yellowgreen;
+    align-items: center;
+}
+h1{
+    color: crimson;
+}
+#image1{
+    align-self: center;
+    top: 50px;
+    left: 50px;
+    border: thin;
+    align-content: center;
+    visibility: visible;
+}
+#image2{
+    align-self: center;
+    top: 50px;
+    left: 50px;
+    border: thin;
+    align-content: center;
+    visibility: hidden;
+}
